@@ -19,3 +19,10 @@ Create Factory File
 
 Create Model File
 ```php artisan make:model <ModelName>```
+
+Create Resource Controller
+```php artisan make:controller <ModelName>Controller --resource
+```
+
+Create Resource
+```php artisan make:resource Article```
